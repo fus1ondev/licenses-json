@@ -1,7 +1,7 @@
 const fs = require('fs');
 const matter = require('white-matter');
 
-const dir = 'choosealicense-com/_licenses/';
+const dir = '../choosealicense-com/_licenses/';
 
 const licenseFiles = fs.readdirSync(dir);
 
