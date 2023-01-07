@@ -1,0 +1,14 @@
+{
+  "name": "licenses-json",
+  "scripts": {
+    "generate": "node generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fus1ondev/licenses-json.git"
+  },
+  "author": "fus1ondev",
+  "dependencies": {
+    "white-matter": "^0.1.0"
+  }
+}
